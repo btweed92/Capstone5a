@@ -1,0 +1,14 @@
+C:\Users\tweed\source\repos\Capstone5API\Capstone5API\bin\Debug\netcoreapp2.2\Capstone5API.deps.json
+C:\Users\tweed\source\repos\Capstone5API\Capstone5API\bin\Debug\netcoreapp2.2\Capstone5API.runtimeconfig.json
+C:\Users\tweed\source\repos\Capstone5API\Capstone5API\bin\Debug\netcoreapp2.2\Capstone5API.runtimeconfig.dev.json
+C:\Users\tweed\source\repos\Capstone5API\Capstone5API\bin\Debug\netcoreapp2.2\Capstone5API.dll
+C:\Users\tweed\source\repos\Capstone5API\Capstone5API\obj\Debug\netcoreapp2.2\Capstone5API.csprojAssemblyReference.cache
+C:\Users\tweed\source\repos\Capstone5API\Capstone5API\obj\Debug\netcoreapp2.2\Capstone5API.csproj.CoreCompileInputs.cache
+C:\Users\tweed\source\repos\Capstone5API\Capstone5API\obj\Debug\netcoreapp2.2\Capstone5API.RazorAssemblyInfo.cache
+C:\Users\tweed\source\repos\Capstone5API\Capstone5API\obj\Debug\netcoreapp2.2\Capstone5API.RazorAssemblyInfo.cs
+C:\Users\tweed\source\repos\Capstone5API\Capstone5API\obj\Debug\netcoreapp2.2\Capstone5API.AssemblyInfoInputs.cache
+C:\Users\tweed\source\repos\Capstone5API\Capstone5API\obj\Debug\netcoreapp2.2\Capstone5API.AssemblyInfo.cs
+C:\Users\tweed\source\repos\Capstone5API\Capstone5API\obj\Debug\netcoreapp2.2\Capstone5API.RazorTargetAssemblyInfo.cache
+C:\Users\tweed\source\repos\Capstone5API\Capstone5API\bin\Debug\netcoreapp2.2\Capstone5API.pdb
+C:\Users\tweed\source\repos\Capstone5API\Capstone5API\obj\Debug\netcoreapp2.2\Capstone5API.dll
+C:\Users\tweed\source\repos\Capstone5API\Capstone5API\obj\Debug\netcoreapp2.2\Capstone5API.pdb
